@@ -1,2 +1,1 @@
-# tiledocs-editor
-TileDocs Editor
+# TileDocs Editor
