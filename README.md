@@ -1,8 +1,12 @@
-# TileDocs Issue Tracker
+### TileDocs Issue Tracker
+
+---
+
+**It is not the source code repository for TileDocs. The project is not open-source.**
+
+---
 
 This repository is dedicated to tracking user-reported issues, feature requests, and suggestions for TileDocs. 
-
-It is not the source code repository for TileDocs, as the project is not open-source.
 
 How to use this repository:
 
